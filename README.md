@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuma-pablic&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yuma-pablic/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuma-pablic
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuma-pablic)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
