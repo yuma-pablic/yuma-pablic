@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuma-pablic&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yuma-pablic/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuma-pablic&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuma-pablic&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yuma-pablic/github-readme-stats)
 
 
